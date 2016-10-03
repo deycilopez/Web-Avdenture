@@ -1,0 +1,11 @@
+.nav-tab{
+    background-color: #A9A9A9;
+    border-style: solid
+    }
+.navigation{
+      font-family: 'Dancing Script', cursive;;
+      color: #006400
+    }
+.nav-tab:hover{
+    background-color: #8FBC8F;
+  }
